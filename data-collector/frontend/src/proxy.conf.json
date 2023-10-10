@@ -1,0 +1,8 @@
+{
+  "/tables/*": {
+    "target": "xxx",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "debug"
+  }
+}

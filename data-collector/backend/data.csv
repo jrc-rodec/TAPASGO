@@ -1,0 +1,538 @@
+;code;content;filename
+0;11111-0001;Gebietsfläche: Bundesländer, Stichtag;tables/11111-0001.csv
+1;11111-0002;Gebietsfläche: Kreise, Stichtag;tables/11111-0002.csv
+62;13111-0001;"Sozialversicherungspflichtig Beschäftigte am Arbeitsort:
+Deutschland, Stichtag, Geschlecht, Altersgruppen";tables/13111-0001.csv
+63;13111-0002;"Sozialversicherungspflichtig Beschäftigte am Arbeitsort:
+Deutschland, Stichtag, Geschlecht, Berufsabschluss";tables/13111-0002.csv
+64;13111-0003;"Sozialversicherungspflichtig Beschäftigte am Arbeitsort:
+Deutschland, Stichtag, Geschlecht, Wirtschaftsabschnitte";tables/13111-0003.csv
+65;13111-0004;"Sozialversicherungspflichtig Beschäftigte am Arbeitsort:
+Deutschland, Stichtag, Geschlecht, Beschäftigungsumfang,
+Wirtschaftsabschnitte";tables/13111-0004.csv
+66;13111-0005;"Sozialversicherungspflichtig Beschäftigte am Arbeitsort:
+Bundesländer, Stichtag, Geschlecht";tables/13111-0005.csv
+67;13111-0006;"Sozialversicherungspflichtig Beschäftigte am Arbeitsort:
+Bundesländer, Stichtag, Wirtschaftsabschnitte";tables/13111-0006.csv
+68;13211-0001;"Arbeitslose, Arbeitslosenquoten, Gemeldete Arbeitsstellen,
+Kurzarbeiter, Kurzarbeitende Betriebe: Deutschland/
+Früheres Bundesgebiet/Neue Länder, Jahre";tables/13211-0001.csv
+69;13211-0002;"Arbeitslose, Arbeitslosenquoten, Gemeldete Arbeitsstellen,
+Kurzarbeiter, Kurzarbeitende Betriebe: Deutschland/
+Früheres Bundesgebiet/Neue Länder, Monate";tables/13211-0002.csv
+70;13211-0003;"Arbeitslose: Deutschland/Früheres Bundesgebiet/Neue Länder,
+Jahre, Geschlecht und weitere Personengruppen";tables/13211-0003.csv
+71;13211-0004;"Arbeitslose: Deutschland/Früheres Bundesgebiet/Neue Länder,
+Monate, Geschlecht und weitere Personengruppen";tables/13211-0004.csv
+86;14111-0001;"Wahlberechtigte, Wähler, Wahlbeteiligung, Erststimmen,
+Zweitstimmen (Allgemeine Bundestagswahlstatistik):
+Deutschland, Stichtag";tables/14111-0001.csv
+87;14111-0002;"Gültige Erststimmen, gültige Zweitstimmen (Allgemeine
+Bundestagswahlstatistik): Deutschland, Stichtag, Parteien";tables/14111-0002.csv
+88;14111-0003;"Wahlberechtigte, Wähler, Wahlbeteiligung, Erststimmen,
+Zweitstimmen (Allgemeine Bundestagswahlstatistik):
+Bundesländer, Stichtag";tables/14111-0003.csv
+89;14111-0004;"Gültige Erststimmen, gültige Zweitstimmen (Allgemeine
+Bundestagswahlstatistik): Bundesländer, Stichtag, Parteien";tables/14111-0004.csv
+90;14121-0001;"Gültige Zweitstimmen (Repräsentative
+Bundestagswahlstatistik): Deutschland, Stichtag, Parteien,
+Geschlecht";tables/14121-0001.csv
+91;14121-0002;"Gültige Zweitstimmen (Repräsentative
+Bundestagswahlstatistik): Deutschland, Stichtag, Parteien,
+Altersgruppen";tables/14121-0002.csv
+92;14121-0003;"Gültige Zweitstimmen (Repräsentative
+Bundestagswahlstatistik): Deutschland, Stichtag, Parteien,
+Geschlecht, Altersgruppen";tables/14121-0003.csv
+93;14121-0004;"Gültige Zweitstimmen (Repräsentative
+Bundestagswahlstatistik): Bundesländer, Stichtag, Parteien,
+Geschlecht";tables/14121-0004.csv
+94;14121-0005;"Gültige Zweitstimmen (Repräsentative
+Bundestagswahlstatistik): Bundesländer, Stichtag, Parteien,
+Altersgruppen";tables/14121-0005.csv
+95;14121-0006;"Gültige Zweitstimmen (Repräsentative
+Bundestagswahlstatistik): Bundesländer, Stichtag, Parteien,
+Geschlecht, Altersgruppen";tables/14121-0006.csv
+100;21111-0001;"Schüler, Schulanfänger, Absolventen und Abgänger:
+Deutschland, Schuljahr, Geschlecht";tables/21111-0001.csv
+101;21111-0002;Schüler: Deutschland, Schuljahr, Geschlecht, Schulart, Jahrgangsstufen;tables/21111-0002.csv
+102;21111-0003;Schulanfänger: Deutschland, Schuljahr, Geschlecht, Schulart, Einschulungsart;tables/21111-0003.csv
+103;21111-0004;"Absolventen und Abgänger: Deutschland, Schuljahr,
+Geschlecht, Schulart, Schulabschlüsse";tables/21111-0004.csv
+104;21111-0005;"Wiederholer: Deutschland, Schuljahr, Geschlecht, Schulart,
+Jahrgangsstufen";tables/21111-0005.csv
+105;21111-0006;"Schüler mit Fremdsprachen-Unterricht: Deutschland,
+Schuljahr, Fremdsprachen, Schulart, Jahrgangsstufen";tables/21111-0006.csv
+106;21111-0007;"Schüler mit sonderpädagogischer Förderung: Deutschland,
+Schuljahr, Schulart, Förderschwerpunkte";tables/21111-0007.csv
+107;21111-0008;Schüler mit sonderpädagogischer Förderung: Deutschland, Schuljahr, Geschlecht, Schulart, Förderschwerpunkte;tables/21111-0008.csv
+108;21111-0010;"Schüler, Schulanfänger, Absolventen und Abgänger:
+Bundesländer, Schuljahr, Geschlecht";tables/21111-0010.csv
+109;21111-0011;Schüler: Bundesländer, Schuljahr, Geschlecht, Schulart, Jahrgangsstufen;tables/21111-0011.csv
+178;22111-0001;"Bruttoausgaben, Einnahmen, Nettoausgaben der Sozialhilfe:
+Deutschland, Jahre";tables/22111-0001.csv
+179;22111-0002;"Bruttoausgaben, Einnahmen, Nettoausgaben der Sozialhilfe:
+Deutschland, Jahre, Ort der Leistungserbringung";tables/22111-0002.csv
+180;22111-0003;"Bruttoausgaben, Einnahmen, Nettoausgaben der Sozialhilfe:
+Deutschland, Jahre, Sozialhilfearten";tables/22111-0003.csv
+181;22111-0004;"Bruttoausgaben der Sozialhilfe: Deutschland, Jahre,
+Sozialhilfearten";tables/22111-0004.csv
+182;22111-0005;"Bruttoausgaben der Sozialhilfe: Deutschland, Jahre,
+Sozialhilfearten, Sozialhilfeträger, Ort der
+Leistungserbringung";tables/22111-0005.csv
+183;22111-0010;"Bruttoausgaben, Einnahmen, Nettoausgaben der Sozialhilfe:
+Früheres Bundesgebiet / Neue Länder, Jahre";tables/22111-0010.csv
+184;22111-0011;"Bruttoausgaben, Einnahmen, Nettoausgaben der Sozialhilfe:
+Früheres Bundesgebiet / Neue Länder, Jahre,
+Ort der Leistungserbringung";tables/22111-0011.csv
+185;22111-0012;"Bruttoausgaben, Einnahmen, Nettoausgaben der Sozialhilfe:
+Früheres Bundesgebiet / Neue Länder, Jahre, Sozialhilfearten";tables/22111-0012.csv
+186;22111-0013;"Bruttoausgaben der Sozialhilfe: Früheres Bundesgebiet /
+Neue Länder, Jahre, Sozialhilfearten";tables/22111-0013.csv
+187;22111-0014;"Bruttoausgaben der Sozialhilfe: Früheres Bundesgebiet /
+Neue Länder, Jahre, Sozialhilfearten, Sozialhilfeträger,
+Ort der Leistungserbringung";tables/22111-0014.csv
+248;23111-0001;Krankenhäuser, Betten, Patienten: Deutschland, Jahre;tables/23111-0001.csv
+249;23111-0002;Personal in Krankenhäusern: Deutschland, Stichtag;tables/23111-0002.csv
+250;23112-0001;"Vorsorge- oder Rehabilitationseinrichtungen, Betten,
+Patienten, Pflegetage: Deutschland, Jahre";tables/23112-0001.csv
+251;23112-0002;"Personal in Vorsorge- oder Rehabilitationseinrichtungen:
+Deutschland, Stichtag";tables/23112-0002.csv
+252;23121-0001;Kostennachweis der Krankenhäuser: Deutschland, Jahre;tables/23121-0001.csv
+253;23121-0002;Orientierungswert für Krankenhäuser: Deutschland, Jahre;tables/23121-0002.csv
+254;23131-0001;"Krankenhauspatienten: Deutschland, Jahre,
+Hauptdiagnose ICD-10 (1-3-Steller Hierarchie)";tables/23131-0001.csv
+282;24111-0001;Gerichte: Bundesländer, Stichtag (bis 31.12.2012), Gerichtsart;tables/24111-0001.csv
+283;24211-0001;"Von der Staats- und Amtsanwaltschaft erledigte
+Ermittlungsverfahren: Deutschland, Jahre, Sachgebiete";tables/24211-0001.csv
+284;24211-0002;"Von der Staats- und Amtsanwaltschaft erledigte
+Ermittlungsverfahren: Bundesländer, Jahre, Sachgebiete";tables/24211-0002.csv
+285;24221-0001;"Vor dem Amtsgericht erledigte Strafverfahren: Deutschland,
+Jahre, Sachgebiete";tables/24221-0001.csv
+286;24221-0002;"Vor dem Amtsgericht erledigte Strafverfahren: Bundesländer,
+Jahre, Sachgebiete";tables/24221-0002.csv
+287;24231-0001;"Vor dem Amtsgericht erledigte Verfahren in Zivilsachen:
+Deutschland, Jahre, Art der Erledigung, Sachgebiete";tables/24231-0001.csv
+288;24231-0002;"Vor dem Amtsgericht erledigte Verfahren in Zivilsachen:
+Bundesländer, Jahre, Art der Erledigung, Sachgebiete";tables/24231-0002.csv
+289;24241-0001;"Vor dem Amtsgericht erledigte Verfahren in Familiensachen:
+Deutschland, Jahre, Art der Erledigung";tables/24241-0001.csv
+290;24241-0002;"Vor dem Amtsgericht erledigte Verfahren in Familiensachen:
+Bundesländer, Jahre, Art der Erledigung";tables/24241-0002.csv
+291;24251-0001;"Vor dem Verwaltungsgericht erledigte Hauptverfahren:
+Deutschland, Jahre, Art der Erledigung";tables/24251-0001.csv
+304;31111-0001;"Baugenehmigungen im Hochbau: Deutschland, Jahre,
+Bautätigkeiten, Gebäudeart/Bauherr";tables/31111-0001.csv
+305;31111-0002;"Baugenehmigungen im Hochbau: Deutschland, Monate,
+Bautätigkeiten, Gebäudeart/Bauherr";tables/31111-0002.csv
+308;31111-0005;"Baugenehmigungen im Fertigteilbau (Neubau): Deutschland,
+Jahre, Gebäudeart/Bauherr";tables/31111-0005.csv
+309;31111-0006;"Baugenehmigungen im Fertigteilbau (Neubau): Deutschland,
+Monate, Gebäudeart/Bauherr";tables/31111-0006.csv
+310;31111-0007;"Baugenehmigungen im Fertigteilbau (Neubau): Bundesländer,
+Monate, Gebäudeart";tables/31111-0007.csv
+311;31111-0008;"Baugenehmigungen neuer Gebäude: Deutschland, Jahre,
+Gebäudeart, Energieverwendung, Energieart";tables/31111-0008.csv
+312;31121-0001;"Baufertigstellungen im Hochbau: Deutschland, Jahre,
+Bautätigkeiten, Gebäudeart/Bauherr";tables/31121-0001.csv
+318;32111-0001;Abfallentsorgung: Deutschland, Jahre;tables/32111-0001.csv
+319;32111-0002;Abfallentsorgung: Deutschland, Jahre, Abfallarten;tables/32111-0002.csv
+320;32111-0003;Abfallentsorgung: Deutschland, Jahre, Anlagenart;tables/32111-0003.csv
+322;32111-0010;Abfallentsorgung: Bundesländer, Jahre;tables/32111-0010.csv
+323;32111-0011;Abfallentsorgung: Bundesländer, Jahre, Anlagenart;tables/32111-0011.csv
+324;32121-0001;"Aufkommen an Haushaltsabfällen: Deutschland, Jahre,
+Abfallarten";tables/32121-0001.csv
+325;32121-0002;Aufkommen an Haushaltsabfällen: Bundesländer, Jahre;tables/32121-0002.csv
+326;32121-0003;"Aufkommen an Haushaltsabfällen: Bundesländer, Jahre,
+Abfallarten";tables/32121-0003.csv
+327;32131-0001;"Eingesammelte Transport- und Umverpackungen, Einsammler:
+Deutschland, Jahre";tables/32131-0001.csv
+358;33111-0001;"Bodenfläche (tatsächliche Nutzung): Deutschland, Stichtag,
+Nutzungsarten";tables/33111-0001.csv
+359;33111-0002;"Bodenfläche (tatsächliche Nutzung): Bundesländer, Stichtag,
+Nutzungsarten";tables/33111-0002.csv
+360;33111-0003;"Bodenfläche (tatsächliche Nutzung): Deutschland, Stichtag
+(bis 31.12.2015), Nutzungsarten";tables/33111-0003.csv
+361;33111-0004;"Bodenfläche (tatsächliche Nutzung): Bundesländer, Stichtag
+(bis 31.12.2015), Nutzungsarten";tables/33111-0004.csv
+362;33111-0005;"Siedlungs- und Verkehrsfläche: Deutschland, Stichtag
+(bis 31.12.2015), Nutzungsarten";tables/33111-0005.csv
+363;33111-0006;"Siedlungs- und Verkehrsfläche: Bundesländer, Stichtag
+(bis 31.12.2015), Nutzungsarten";tables/33111-0006.csv
+364;41122-0001;"Landwirtschaftliche Betriebe, Landwirtsch. genutzte Fläche
+(Rep. ASE): Deutschland, Jahre (bis 2007), Rechtsform,
+Größenklassen der landwirtschaftlich genutzten Fläche";tables/41122-0001.csv
+365;41122-0002;"Arbeitskräfte (Rep. ASE): Deutschland, Jahre (bis 2007),
+Arbeitskräftegruppen, Geschlecht, Rechtsform, Größenklassen
+der landwirtschaftlich genutzten Fläche";tables/41122-0002.csv
+366;41122-0003;"Betriebliche Arbeitsleistung (Rep. ASE): Deutschland,
+Jahre (bis 2007), Arbeitskräftegruppen, Rechtsform,
+Größenklassen der landwirtschaftlich genutzten Fläche";tables/41122-0003.csv
+367;41122-0004;"Betriebliche Arbeitsleistung (Rep. ASE): Deutschland,
+Jahre (bis 1995), Arbeitskräftegruppen, Geschlecht,
+Rechtsform, Größenklassen der landwirtsch. genutzten Fläche";tables/41122-0004.csv
+368;41122-0005;"Landwirtschaftliche Betriebe, Landwirtsch. genutzte Fläche
+(Rep. ASE): Bundesländer, Jahre (bis 2007), Rechtsform,
+Größenklassen der landwirtschaftlich genutzten Fläche";tables/41122-0005.csv
+369;41122-0006;"Arbeitskräfte (Rep. ASE): Bundesländer, Jahre (bis 2007),
+Arbeitskräftegruppen, Geschlecht, Rechtsform, Größenklassen
+der landwirtschaftlich genutzten Fläche";tables/41122-0006.csv
+370;41122-0007;"Betriebliche Arbeitsleistung (Rep. ASE): Bundesländer,
+Jahre (bis 2007), Arbeitskräftegruppen, Rechtsform,
+Größenklassen der landwirtschaftlich genutzten Fläche";tables/41122-0007.csv
+371;41122-0008;"Betriebliche Arbeitsleistung (Rep. ASE): Bundesländer,
+Jahre (bis 1995), Arbeitskräftegruppen, Geschlecht,
+Rechtsform, Größenklassen der landwirtsch. genutzten Fläche";tables/41122-0008.csv
+372;41141-0001;"Landwirtschaftliche Betriebe, Fläche: Deutschland, Jahre,
+Bodennutzungsarten";tables/41141-0001.csv
+373;41141-0002;"Landwirtschaftliche Betriebe, Fläche: Deutschland, Jahre,
+Bodennutzungsarten, Größenklassen der landwirtschaftlich
+genutzten Fläche";tables/41141-0002.csv
+394;42111-0001;"Beschäftigte und Umsatz der Betriebe im Verarbeitenden
+Gewerbe: Deutschland, Jahre, Wirtschaftszweige
+(WZ2008 Hauptgruppen und Aggregate)";tables/42111-0001.csv
+395;42111-0002;"Beschäftigte und Umsatz der Betriebe im Verarbeitenden
+Gewerbe: Deutschland, Monate, Wirtschaftszweige
+(WZ2008 Hauptgruppen und Aggregate)";tables/42111-0002.csv
+396;42111-0003;"Beschäftigte und Umsatz der Betriebe im Verarbeitenden
+Gewerbe: Deutschland, Jahre, Wirtschaftszweige
+(WZ2008 2-/3-/4-Steller)";tables/42111-0003.csv
+397;42111-0004;"Beschäftigte und Umsatz der Betriebe im Verarbeitenden
+Gewerbe: Deutschland, Monate, Wirtschaftszweige
+(WZ2008 2-/3-/4-Steller)";tables/42111-0004.csv
+398;42111-0005;"Beschäftigte und Umsatz der Betriebe im Verarbeitenden
+Gewerbe: Deutschland, Jahre, Wirtschaftszweige
+(WZ2008 2-4-Steller Hierarchie)";tables/42111-0005.csv
+400;42111-0007;"Beschäftigte und Umsatz der Betriebe im Verarbeitenden
+Gewerbe: Fr. Bundesgebiet/Neue Länder, Jahre (bis 2020),
+Wirtschaftszweige (WZ2008 Hauptgruppen und Aggregate)";tables/42111-0007.csv
+401;42111-0008;"Beschäftigte und Umsatz der Betriebe im Verarbeitenden
+Gewerbe: Früheres Bundesgebiet/Neue Länder, Jahre (bis
+2020), Wirtschaftszweige (WZ2008 2-/3-/4-Steller)";tables/42111-0008.csv
+402;42111-0009;"Beschäftigte und Umsatz der Betriebe im Verarbeitenden
+Gewerbe: Fr. Bundesgebiet/Neue Länder, Jahre (bis 2020),
+Wirtschaftszweige (WZ2008 2-4-Steller Hierarchie)";tables/42111-0009.csv
+403;42111-0010;"Beschäftigte und Umsatz der Betriebe im Verarbeitenden
+Gewerbe: Bundesländer, Jahre";tables/42111-0010.csv
+424;43111-0001;"Betriebe, Tätige Personen, Geleistete Arbeitsstunden,
+Entgelte (Energie- und Wasserversorgung):
+Deutschland, Jahre, Wirtschaftszweige";tables/43111-0001.csv
+425;43111-0002;"Betriebe, Tätige Personen, Geleistete Arbeitsstunden,
+Entgelte (Energie- und Wasserversorgung): Deutschland, 
+Monate, Wirtschaftszweige, Original- und bereinigte Daten";tables/43111-0002.csv
+426;43211-0001;"Investitionen der Unternehmen in der Energie- und
+Wasserversorgung: Deutschland, Jahre, Wirtschaftszweige";tables/43211-0001.csv
+427;43213-0001;"Investitionen in die Gasversorgung von Unternehmen der
+Erdgas- bzw. Erdölgas-Gewinnung und die Erdgas- bzw. Erdöl-
+gasleitungen erstellen oder betreiben: Deutschland, Jahre";tables/43213-0001.csv
+428;43221-0001;"Beschäftigte, Umsatz, Produktionswert und Wertschöpfung
+der Unternehmen in der Energie- und Wasserversorgung:
+Deutschland, Jahre, Wirtschaftszweige";tables/43221-0001.csv
+429;43311-0001;"Elektrizitätserzeugung, Nettowärmeerzeugung,
+Brennstoffeinsatz: Deutschland, Jahre, Energieträger";tables/43311-0001.csv
+430;43311-0002;"Elektrizitätserzeugung, Nettowärmeerzeugung,
+Brennstoffeinsatz: Deutschland, Monate, Energieträger";tables/43311-0002.csv
+431;43312-0001;"Stromeinspeisende Anlagen, Nettonennleistung,
+Stromeinspeisung: Deutschland, Monate, Energieträger";tables/43312-0001.csv
+432;43312-0002;"Ein- und Ausfuhr von Elektrizität: Deutschland, Monate,
+Länder";tables/43312-0002.csv
+433;43321-0001;"Gewinnung, Netzeinspeisung, Eigenverbrauch, Speicherstand
+von Gas: Deutschland, Monate";tables/43321-0001.csv
+446;44111-0001;"Tätige Personen, Entgelte, Umsatz im Bauhauptgewerbe
+(alle Betriebe): Bundesländer, Monate (bis 2016)";tables/44111-0001.csv
+447;44111-0002;"Tätige Personen im Bauhauptgewerbe (alle Betriebe):
+Bundesländer, Monate (bis 2016), Stellung im Betrieb";tables/44111-0002.csv
+448;44111-0003;"Geleistete Arbeitsstunden, Baugewerblicher Umsatz im
+Bauhauptgewerbe (alle Betriebe): Bundesländer, Monate
+(bis 2016), Bauarten";tables/44111-0003.csv
+449;44111-0004;"Betriebe, Tätige Personen, Entgelte, Geleistete
+Arbeitsstunden, Umsatz im Bauhauptgewerbe (Betriebe mit 20u.
+m. tätigen Personen): Deutschland, Monate, Wirtschaftszweige";tables/44111-0004.csv
+450;44111-0005;"Betriebe, Tätige Personen, Entgelte, Umsatz im
+Bauhauptgewerbe (Betriebe mit 20 u.m. tätigen Personen):
+Bundesländer, Monate";tables/44111-0005.csv
+451;44111-0006;"Tätige Personen im Bauhauptgewerbe (Betriebe mit 20 u.m.
+tätigen Personen): Bundesländer, Monate, Stellung im Betrieb";tables/44111-0006.csv
+452;44111-0007;"Auftragseingang, Geleistete Arbeitsstunden,
+Baugewerblicher Umsatz im Bauhauptgewerbe (Betriebe mit
+20 u.m. tätigen Personen): Bundesländer, Monate, Bauarten";tables/44111-0007.csv
+453;44111-0008;"Auftragseingang (Wert- und Volumenindex) im Bauhauptgewerbe
+(Betriebe mit 20 u.m. tätigen Personen): Deutschland,
+Jahre, Bauarten";tables/44111-0008.csv
+454;44111-0009;"Auftragseingang (Wert- und Volumenindex) im Bauhauptgewerbe
+(Betriebe mit 20 u.m. tätigen Personen): Deutschland,
+Monate, Bauarten, Original- und bereinigte Daten";tables/44111-0009.csv
+455;44131-0001;"Betriebe, Tätige Personen, Entgelte, Geleistete
+Arbeitsstunden, Umsatz im Ausbaugewerbe (Betriebe mit 20u.m.
+tätigen Personen): Deutschland, Quartale, Wirtschaftszweige";tables/44131-0001.csv
+462;45211-0001;Beschäftigte im Großhandel: Deutschland, Jahre, Wirtschaftszweige;tables/45211-0001.csv
+463;45211-0002;Beschäftigte im Großhandel: Deutschland, Monate/Quartale/Halbjahre, Wirtschaftszweige;tables/45211-0002.csv
+464;45211-0003;Umsatz im Großhandel: Deutschland, Jahre, Preisarten, Wirtschaftszweige;tables/45211-0003.csv
+465;45211-0004;"Umsatz im Großhandel: Deutschland,
+Monate/Quartale/Halbjahre, Preisarten, Wirtschaftszweige";tables/45211-0004.csv
+466;45211-0005;Umsatz im Großhandel: Deutschland, Monate, Preisarten, Original- und bereinigte Daten, Wirtschaftszweige;tables/45211-0005.csv
+467;45211-0011;Beschäftigte im Großhandel: Bundesländer, Jahre;tables/45211-0011.csv
+468;45211-0012;Beschäftigte im Großhandel: Bundesländer, Monate/Quartale/Halbjahre;tables/45211-0012.csv
+469;45211-0013;Umsatz im Großhandel: Bundesländer, Jahre, Preisarten;tables/45211-0013.csv
+470;45211-0014;Umsatz im Großhandel: Bundesländer, Monate/Quartale/Halbjahre, Preisarten;tables/45211-0014.csv
+471;45212-0001;Beschäftigte im Einzelhandel: Deutschland, Jahre, Wirtschaftszweige;tables/45212-0001.csv
+492;46131-0001;"Beförderte Güter, Beförderungsleistung
+(Eisenbahngüterverkehr): Deutschland, Jahre";tables/46131-0001.csv
+493;46131-0002;"Beförderte Güter, Beförderungsleistung
+(Eisenbahngüterverkehr): Deutschland, Monate";tables/46131-0002.csv
+494;46131-0003;"Beförderte Güter, Beförderungsleistung
+(Eisenbahngüterverkehr): Deutschland, Jahre,
+Hauptverkehrsbeziehungen";tables/46131-0003.csv
+495;46131-0004;"Beförderte Güter, Beförderungsleistung
+(Eisenbahngüterverkehr): Deutschland, Monate,
+Hauptverkehrsbeziehungen";tables/46131-0004.csv
+496;46131-0005;"Beförderte Güter, Beförderungsleistung
+(Eisenbahngüterverkehr): Deutschland, Jahre,
+Hauptverkehrsbeziehungen, Gütergruppen";tables/46131-0005.csv
+497;46131-0006;"Beförderte Güter, Beförderungsleistung
+(Eisenbahngüterverkehr): Deutschland, Monate,
+Hauptverkehrsbeziehungen, Gütergruppen";tables/46131-0006.csv
+498;46131-0007;"Beförderte Güter (Eisenbahngüterverkehr): Deutschland,
+Jahre, Güterabteilungen und -gruppen";tables/46131-0007.csv
+499;46131-0008;"Beförderte Güter (Eisenbahngüterverkehr): Deutschland,
+Monate, Güterabteilungen und -gruppen";tables/46131-0008.csv
+533;47311-0001;"Unternehmenskennzahlen zur Versicherungswirtschaft:
+Deutschland, Jahre, Wirtschaftszweige";tables/47311-0001.csv
+534;47414-0001;Beschäftigtenindex im Dienstleistungsbereich: Deutschland, Jahre, Wirtschaftszweige;tables/47414-0001.csv
+535;47414-0002;Beschäftigtenindex im Dienstleistungsbereich: Deutschland, Monate/Quartale/Halbjahre, Wirtschaftszweige;tables/47414-0002.csv
+536;47414-0003;Umsatzindex im Dienstleistungsbereich: Deutschland, Jahre, Preisarten, Wirtschaftszweige;tables/47414-0003.csv
+537;47414-0004;"Umsatzindex im Dienstleistungsbereich: Deutschland,
+Monate/Quartale/Halbjahre, Preisarten, Wirtschaftszweige";tables/47414-0004.csv
+538;47414-0005;Umsatzindex im Dienstleistungsbereich: Deutschland, Monate, Preisarten, Original- und bereinigte Daten, Wirtschaftszweige;tables/47414-0005.csv
+539;47414-0006;Produktionsindex im Dienstleistungsbereich: Deutschland, Monate, Original- und bereinigte Daten, Wirtschaftszweige;tables/47414-0006.csv
+540;47415-0001;"Unternehmen: Deutschland, Jahre, Rechtsform,
+Wirtschaftsabschnitte, Größenklassen (Umsatz / tätige
+Personen)";tables/47415-0001.csv
+541;47415-0002;"Unternehmen: Deutschland, Jahre (bis 2007), Rechtsform,
+Wirtschaftszweige (WZ2003 2-4-Steller Hierarchie)";tables/47415-0002.csv
+542;47415-0003;"Unternehmen: Deutschland, Jahre, Rechtsform,
+Wirtschaftszweige (WZ2008 2-4-Steller Hierarchie)";tables/47415-0003.csv
+544;48112-0001;"Unternehmen (EU), Tätige Personen, Umsatz und weitere
+betriebs- und volkswirtschaftliche Kennzahlen: Deutschland,
+Jahre, Wirtschaftszweige (WZ2008 1-/2-/3-/4-Steller)";tables/48112-0001.csv
+545;48112-0002;Unternehmen (EU), Tätige Personen, Umsatz und weitere betriebs- und volkswirtschaftliche Kennzahlen: Deutschland, Jahre, Wirtschaftszweige (WZ2008 1-4-Steller Hierarchie);tables/48112-0002.csv
+546;48121-0001;"Unternehmen, Tätige Personen, Umsatz und weitere betriebs-
+und volkswirtschaftliche Kennzahlen: Deutschland, Jahre,
+Unternehmensgröße";tables/48121-0001.csv
+547;48121-0002;"Unternehmen, Tätige Personen, Umsatz und weitere betriebs-
+und volkswirtschaftliche Kennzahlen: Deutschland, Jahre,
+Unternehmensgröße, Wirtschaftszweige";tables/48121-0002.csv
+548;48131-0001;"Auslandskontrollierte Unternehmen: Deutschland, Jahre,
+Herkunftskontinent der Muttergesellschaft";tables/48131-0001.csv
+549;48131-0002;"Auslandskontrollierte Unternehmen: Deutschland, Jahre,
+Wirtschaftsabschnitte und -abteilungen";tables/48131-0002.csv
+560;52111-0001;"Unternehmen (EU) (Unternehmensregister-System):
+Deutschland, Jahre, Wirtschaftszweige (Abschnitte),
+Beschäftigtengrößenklassen";tables/52111-0001.csv
+561;52111-0002;"Rechtliche Einheiten (Unternehmensregister-System):
+Deutschland, Jahre, Wirtschaftszweige (Abschnitte),
+Beschäftigtengrößenklassen";tables/52111-0002.csv
+562;52111-0003;"Niederlassungen (Unternehmensregister-System):
+Deutschland, Jahre, Wirtschaftszweige (Abschnitte),
+Beschäftigtengrößenklassen";tables/52111-0003.csv
+563;52111-0005;"Rechtliche Einheiten (Unternehmensregister-System):
+Bundesländer, Jahre, Wirtschaftszweige (Abschnitte),
+Beschäftigtengrößenklassen";tables/52111-0005.csv
+564;52111-0006;"Niederlassungen (Unternehmensregister-System):
+Bundesländer, Jahre, Wirtschaftszweige (Abschnitte),
+Beschäftigtengrößenklassen";tables/52111-0006.csv
+565;52111-0010;"Unternehmensgründungen und -schließungen: Deutschland,
+Jahre, Wirtschaftszweige";tables/52111-0010.csv
+566;52111-0011;"Unternehmensgründungen und -schließungen: Deutschland,
+Jahre, Wirtschaftszweige, Beschäftigtengrößenklassen";tables/52111-0011.csv
+567;52111-0012;"Unternehmensgründungen und -schließungen: Deutschland,
+Jahre, Wirtschaftszweige, Rechtsform";tables/52111-0012.csv
+568;52111-0013;"Überlebende Unternehmen: Deutschland, Jahre,
+Wirtschaftszweige, Zeitpunkt der Unternehmensgründung";tables/52111-0013.csv
+569;52111-0014;"Überlebende Unternehmen: Deutschland, Jahre,
+Wirtschaftszweige, Zeitpunkt der Unternehmensgründung,
+Beschäftigtengrößenklassen";tables/52111-0014.csv
+596;53111-0001;Handwerksunternehmen, Tätige Personen, Umsatz: Deutschland, Jahre (bis 2019), Handwerksarten, Gewerbegruppen und Gewerbezweige;tables/53111-0001.csv
+597;53111-0002;"Handwerksunternehmen, Tätige Personen, Umsatz: Deutschland,
+Jahre, Handwerksarten, Gewerbegruppen und Gewerbezweige";tables/53111-0002.csv
+598;53111-0003;"Handwerksunternehmen, Tätige Personen, Umsatz: Deutschland,
+Jahre (bis 2019), Handwerksarten, Gewerbegruppen und
+Gewerbezweige, Beschäftigtengrößenklassen";tables/53111-0003.csv
+599;53111-0004;"Handwerksunternehmen, Tätige Personen, Umsatz: Deutschland,
+Jahre, Handwerksarten, Gewerbegruppen und Gewerbezweige,
+Beschäftigtengrößenklassen";tables/53111-0004.csv
+600;53111-0005;"Handwerksunternehmen, Tätige Personen, Umsatz: Deutschland,
+Jahre (bis 2019), Handwerksarten, Gewerbegruppen und
+Gewerbezweige, Umsatzgrößenklassen";tables/53111-0005.csv
+601;53111-0006;"Handwerksunternehmen, Tätige Personen, Umsatz: Deutschland,
+Jahre, Handwerksarten, Gewerbegruppen und Gewerbezweige,
+Umsatzgrößenklassen";tables/53111-0006.csv
+602;53111-0007;"Handwerksunternehmen, Tätige Personen, Umsatz: Deutschland,
+Jahre, Handwerksarten, Rechtsform,
+Beschäftigtengrößenklassen";tables/53111-0007.csv
+603;53111-0008;"Handwerksunternehmen, Tätige Personen, Umsatz: Deutschland,
+Jahre, Wirtschaftszweige";tables/53111-0008.csv
+604;53111-0010;Handwerksunternehmen, Tätige Personen, Umsatz: Bundesländer, Jahre (bis 2019), Handwerksarten, Gewerbegruppen und Gewerbezweige;tables/53111-0010.csv
+605;53111-0011;"Handwerksunternehmen, Tätige Personen, Umsatz: Bundesländer,
+Jahre, Handwerksarten, Gewerbegruppen und Gewerbezweige";tables/53111-0011.csv
+610;61111-0001;Verbraucherpreisindex: Deutschland, Jahre;tables/61111-0001.csv
+611;61111-0002;Verbraucherpreisindex: Deutschland, Monate;tables/61111-0002.csv
+612;61111-0003;"Verbraucherpreisindex: Deutschland, Jahre,
+Klassifikation der Verwendungszwecke des Individualkonsums
+(COICOP 2-5-Steller Hierarchie)";tables/61111-0003.csv
+613;61111-0004;"Verbraucherpreisindex: Deutschland, Monate,
+Klassifikation der Verwendungszwecke des Individualkonsums
+(COICOP 2-5-Steller Hierarchie)";tables/61111-0004.csv
+614;61111-0005;"Verbraucherpreisindex: Deutschland, Jahre,
+Klassifikation der Verwendungszwecke des Individualkonsums
+(COICOP 2-/3-/4-/5-/10-Steller/Sonderpositionen)";tables/61111-0005.csv
+615;61111-0006;"Verbraucherpreisindex: Deutschland, Monate,
+Klassifikation der Verwendungszwecke des Individualkonsums
+(COICOP 2-/3-/4-/5-/10-Steller/Sonderpositionen)";tables/61111-0006.csv
+616;61111-0007;"Wägungsschema des Verbraucherpreisindex: Deutschland, Jahre,
+Klassifikation der Verwendungszwecke des Individualkonsums
+(COICOP 2-5-Steller Hierarchie)";tables/61111-0007.csv
+617;61111-0010;Verbraucherpreisindex: Bundesländer, Jahre;tables/61111-0010.csv
+618;61111-0011;Verbraucherpreisindex: Bundesländer, Monate;tables/61111-0011.csv
+619;61111-0020;Index der Nettokaltmieten: Bundesländer, Jahre;tables/61111-0020.csv
+662;62111-0001;"Abhängige Beschäftigungsverhältnisse, Abhängige
+Beschäftigungsverhältnisse mit Niedriglohn: Deutschland,
+Stichmonat (bis 04/2018), Wirtschaftsabschnitte";tables/62111-0001.csv
+663;62111-0002;"Abhängige Beschäftigungsverhältnisse, Abhängige
+Beschäftigungsverhältnisse mit Niedriglohn: Deutschland,
+Stichmonat (bis 04/2018), Wirtschaftsabschnitte, Geschlecht";tables/62111-0002.csv
+664;62111-0003;Abhängige Beschäftigungsverhältnisse, Abhängige Beschäftigungsverhältnisse mit Niedriglohn: Deutschland, Stichmonat (bis 04/2018), Wirtschaftsabschnitte, Altersgruppen;tables/62111-0003.csv
+665;62111-0004;Bruttostundenverdienste, Verdienstunterschied: Deutschland, Jahre (bis 2018), Geschlecht, Wirtschaftsabschnitte;tables/62111-0004.csv
+666;62111-0005;Bruttostundenverdienste, Verdienstunterschied: Deutschland, Jahre (bis 2018), Geschlecht, persönliche und berufsbezogene Merkmale;tables/62111-0005.csv
+667;62111-0010;"Abhängige Beschäftigungsverhältnisse, Abhängige
+Beschäftigungsverhältnisse mit Niedriglohn: Bundesländer,
+Stichmonat (bis 04/2018), Wirtschaftsabschnitte";tables/62111-0010.csv
+668;62111-0011;Bruttostundenverdienste, Verdienstunterschied: Bundesländer, Jahre (bis 2018), Geschlecht, Wirtschaftsabschnitte;tables/62111-0011.csv
+669;62111-0012;Bruttostundenverdienste, Verdienstunterschied: Bundesländer, Jahre (bis 2018), Geschlecht, persönliche und berufsbezogene Merkmale;tables/62111-0012.csv
+670;62111-0100;"Arbeiter, Angestellte, Bruttomonatsverdienste (Prod. Gewerbe
+u.Dienstleistungsbereich):Früheres Bundesgebiet/Neue Länder,
+Stichmonat (bis 10/2005), Art der Ausbildung";tables/62111-0100.csv
+671;62111-0101;"Arbeiter, Angestellte, Bruttomonatsverdienste (Prod. Gewerbe
+u.Dienstleistungsbereich):Früheres Bundesgebiet/Neue Länder,
+Stichmonat (bis 10/2005), Art der Ausbildung, Geschlecht";tables/62111-0101.csv
+697;63111-0001;"Ausstattung privater Haushalte (Laufende
+Wirtschaftsrechnungen): Deutschland, Stichtag,
+Gebrauchsgüter";tables/63111-0001.csv
+698;63111-0002;"Ausstattung privater Haushalte (Laufende
+Wirtschaftsrechnungen): Deutschland, Stichtag,
+Gebrauchsgüter, Haushaltstyp";tables/63111-0002.csv
+699;63111-0003;"Ausstattung privater Haushalte (Laufende
+Wirtschaftsrechnungen): Deutschland, Stichtag,
+Gebrauchsgüter, Haushaltsnettoeinkommensklassen";tables/63111-0003.csv
+700;63111-0004;"Ausstattung privater Haushalte (Laufende
+Wirtschaftsrechnungen): Deutschland, Stichtag,
+Gebrauchsgüter, Soziale Stellung d. Haupteinkommensbeziehers";tables/63111-0004.csv
+701;63111-0005;"Ausstattung privater Haushalte (Laufende
+Wirtschaftsrechnungen): Deutschland, Stichtag,
+Gebrauchsgüter, Alter des Haupteinkommensbeziehers";tables/63111-0005.csv
+702;63111-0010;"Ausstattung privater Haushalte (Laufende
+Wirtschaftsrechnungen): Früheres Bundesgebiet/Neue Länder,
+Stichtag, Gebrauchsgüter";tables/63111-0010.csv
+703;63111-0011;"Ausstattung privater Haushalte (Laufende Wirtschaftsrechn.):
+Früheres Bundesgebiet/Neue Länder,Stichtag (bis 01.01.2014),
+Gebrauchsgüter, Haushaltstyp";tables/63111-0011.csv
+704;63111-0012;"Ausstattung privater Haushalte (Laufende Wirtschaftsrechn.):
+Früheres Bundesgebiet/Neue Länder,Stichtag (bis 01.01.2014),
+Gebrauchsgüter, Haushaltsnettoeinkommensklassen";tables/63111-0012.csv
+705;63111-0013;"Ausstattung privater Haushalte (Laufende Wirtschaftsrechn.):
+Früheres Bundesgebiet/Neue Länder,Stichtag (bis 01.01.2014),
+Gebrauchsgüter,Soziale Stellung des Haupteinkommensbeziehers";tables/63111-0013.csv
+706;63111-0014;"Ausstattung privater Haushalte (Laufende Wirtschaftsrechn.):
+Früheres Bundesgebiet/Neue Länder,Stichtag (bis 01.01.2014),
+Gebrauchsgüter, Alter des Haupteinkommensbeziehers";tables/63111-0014.csv
+733;71141-0001;"Rechnungsergebnisse des öffentlichen Gesamthaushalts
+(Ausgaben): Deutschland, Jahre, Körperschaftsgruppen,
+Ausgabearten";tables/71141-0001.csv
+734;71141-0002;"Rechnungsergebnisse des öffentlichen Gesamthaushalts
+(Einnahmen): Deutschland, Jahre, Körperschaftsgruppen,
+Einnahmearten";tables/71141-0002.csv
+735;71141-0003;"Rechnungsergebnisse des öffentlichen Gesamthaushalts
+(Finanzierungssaldo, Besondere Finanzierungsvorgänge):
+Deutschland, Jahre, Körperschaftsgruppen";tables/71141-0003.csv
+736;71141-0004;"Rechnungsergebnisse des öffentlichen Gesamthaushalts
+(Nettoausgaben, Personalausgaben, Baumaßnahmen):
+Deutschland, Jahre, Körperschaftsgruppen, Aufgabenbereiche";tables/71141-0004.csv
+737;71141-0005;"Investitionsausgaben der öffentlichen Haushalte:
+Deutschland, Jahre, Körperschaftsgruppen, Art der
+Investitionsausgaben";tables/71141-0005.csv
+738;71141-0006;"Investitionsausgaben der öffentlichen Haushalte:
+Bundesländer, Jahre, Körperschaftsgruppen, Art der
+Investitionsausgaben";tables/71141-0006.csv
+739;71211-0001;"Steuereinnahmen: Deutschland, Jahre, Steuerarten vor der
+Steuerverteilung";tables/71211-0001.csv
+740;71211-0002;"Steuereinnahmen: Deutschland, Jahre, Steuerarten nach der
+Steuerverteilung";tables/71211-0002.csv
+741;71211-0003;"Steuereinnahmen: Deutschland, Quartale, Steuerarten vor der
+Steuerverteilung";tables/71211-0003.csv
+742;71211-0004;"Steuereinnahmen: Deutschland, Quartale, Steuerarten nach der
+Steuerverteilung";tables/71211-0004.csv
+772;73111-0001;"Lohn- und Einkommensteuerpflichtige, Gesamtbetrag der
+Einkünfte, Einkommen, Zu versteuerndes Einkommen,
+Festgesetzte Einkommensteuer: Deutschland, Jahre";tables/73111-0001.csv
+773;73111-0002;"Lohn- und Einkommensteuerpflichtige, Positive Einkünfte:
+Deutschland, Jahre, Einkunftsarten";tables/73111-0002.csv
+774;73111-0010;"Lohn- und Einkommensteuerpflichtige, Zuwendungen:
+Deutschland, Jahre, Art der Zuwendungen,
+Grund-/Splittingtabelle, Größenklassen der Einkünfte";tables/73111-0010.csv
+775;73111-0011;"Unbeschränkt Lohn- und Einkommensteuerpflichtige, außergew.
+Belastungen: Deutschland, Jahre, Art der außergew. Belast.,
+Grund-/Splittingtabelle, Größenklassen der Einkünfte";tables/73111-0011.csv
+776;73111-0020;Betriebe, Einkünfte (Einnahmenüberschussrechnung): Deutschland, Jahre, Einkunftsarten, Gewinnermittlung;tables/73111-0020.csv
+777;73121-0001;"Einkünfte der Personengesellschaften und Gemeinschaften:
+Deutschland, Jahre, Einkunftsarten, Gewinn- und Verlustfälle";tables/73121-0001.csv
+778;73121-0002;"Positive und negative Einkünfte der Personengesellschaften
+und Gemeinschaften: Deutschland, Jahre, Einkunftsarten,
+Gewinn- und Verlustfälle";tables/73121-0002.csv
+779;73121-0003;"Einkünfte der Personengesellschaften und Gemeinschaften:
+Bundesländer, Jahre, Gewinn- und Verlustfälle";tables/73121-0003.csv
+780;73151-0001;"Lohnsteueranmeldungen der Arbeitgeber: Deutschland, Jahre,
+Betriebsgrößenklassen";tables/73151-0001.csv
+781;73151-0002;"Arbeitgeber, Arbeitnehmer (BAV-Förderbetrag): Deutschland,
+Jahre, Betriebsgrößenklassen";tables/73151-0002.csv
+811;74111-0001;"Beschäftigte im öffentlichen Dienst: Deutschland, Stichtag,
+Beschäftigungsbereich";tables/74111-0001.csv
+812;74111-0002;"Beschäftigte im öffentlichen Dienst: Deutschland, Stichtag,
+Beschäftigungsbereich, Dienstverhältnis,
+Beschäftigungsumfang";tables/74111-0002.csv
+813;74111-0010;Beschäftigte in den Kernhaushalten des Bundes und der Länder im Aufgabenbereich Polizei: Deutschland, Stichtag, Beschäftigungsbereich, Dienstverhältnis, Geschlecht;tables/74111-0010.csv
+814;74111-0011;Beschäftigte in den Kernhaushalten der Länder im Aufgabenbereich Polizei: Bundesländer, Stichtag, Dienstverhältnis, Geschlecht;tables/74111-0011.csv
+815;74211-0001;"Versorgungsempfänger: Deutschland, Stichtag,
+Körperschaftsebenen";tables/74211-0001.csv
+816;74211-0002;"Versorgungsempfänger: Deutschland, Stichtag,
+Körperschaftsebenen, Art der Versorgung, Besoldungsgruppe,
+Geschlecht";tables/74211-0002.csv
+817;74211-0003;"Versorgungszugänge der Empfänger von Ruhegehalt:
+Deutschland, Jahre, Körperschaftsebenen";tables/74211-0003.csv
+818;74211-0004;"Versorgungszugänge der Empfänger von Ruhegehalt:
+Deutschland, Jahre, Körperschaftsebenen, Besoldungsgruppe,
+Grund für den Eintritt des Versorgungsfalls, Geschlecht";tables/74211-0004.csv
+819;74211-0005;"Durchschnittliche Versorgungsbezüge: Deutschland,
+Stichmonat, Körperschaftsebenen, Art der Versorgung,
+Geschlecht";tables/74211-0005.csv
+820;74211-0006;"Durchschnittliche Ruhegehaltssätze der Empfänger von
+Ruhegehalt: Deutschland, Stichtag, Körperschaftsebenen,
+Besoldungsgruppe";tables/74211-0006.csv
+842;82411-0001;"VGR der Länder (Umverteilungsrechnung) - Verfügbares
+Einkommen der privaten Haushalte: Bundesländer, Jahre";tables/82411-0001.csv
+843;85111-0001;"Luftemissionen: Deutschland, Jahre, Luftemissionsart,
+Produktionsbereiche";tables/85111-0001.csv
+844;85111-0002;"Wasser: Deutschland, Jahre, Wasserentnahme und -bezug,
+Produktionsbereiche";tables/85111-0002.csv
+845;85111-0003;"Abwasser: Deutschland, Jahre, Abwassereinleitungsarten,
+Produktionsbereiche";tables/85111-0003.csv
+846;85131-0001;Energieverbrauch: Deutschland, Jahre, Produktionsbereiche;tables/85131-0001.csv
+847;85131-0002;"Verwendung von Energie: Deutschland, Jahre,
+Produktionsbereiche, Energieträger";tables/85131-0002.csv
+848;85131-0003;"Verwendung und Aufkommen von Energie (VGR-Konzept):
+Deutschland, Jahre, Energieträger";tables/85131-0003.csv
+849;85131-0004;Verwertete inländische Rohstoffentnahme, Ein- und Ausfuhr von Gütern (Inländerkonzept): Deutschland, Jahre, Materialgrad und Rohstoffarten;tables/85131-0004.csv
+850;85211-0001;"Siedlungsfläche: Deutschland, Jahre, Produktionsbereiche und
+private Haushalte, Nutzungsarten";tables/85211-0001.csv
+851;85411-0001;"Ausgaben und Investitionen für den Umweltschutz:
+Deutschland, Jahre";tables/85411-0001.csv
+852;85411-0002;"Ausgaben und Investitionen für den Umweltschutz:
+Deutschland, Jahre, Wirtschaftsbereiche";tables/85411-0002.csv
