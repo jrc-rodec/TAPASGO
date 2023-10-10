@@ -5,9 +5,8 @@ Resources used to fine-tune the TAPAS-base model for a potential German TAPAS mo
 
 In order to collect data for the fine-tuning process of TAPASGO, a self-developed tool for annotating tabular data was created. 
 The tool consists of two subprojects: 
- ** a *back-end* that is responsible for the data processing
- ** a *front-end* where a user can input answers for a given table row
-
+* a __back-end__ that is responsible for the data processing
+* a __front-end__ where a user can input answers for a given table row
  The subprojects can be found inside the data-collector folder.
 
 ### Front-End
