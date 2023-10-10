@@ -1,5 +1,6 @@
 # TAPASGO Resources
-Resources used to fine-tune the TAPAS-base model for a potential German TAPAS model (TAPASGO)
+Resources used to fine-tune the TAPAS-base model for a potential German TAPAS model (TAPASGO). 
+The fine-tuned model can be found under __releases__.
 
 ## UI Data Collector
 
