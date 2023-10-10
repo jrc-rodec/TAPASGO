@@ -10,10 +10,6 @@ The tool consists of two subprojects:
 * a __front-end__ where a user can input answers for a given table row
  The subprojects can be found inside the data-collector folder.
 
-### Front-End
-
-### Backend
-
 ## Training
 
 All files used for the training process, including the data and Jupyter Notebook, can be found inside the training folder.
