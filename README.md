@@ -1,5 +1,6 @@
 # TAPASGO Resources
-Resources used to fine-tune the TAPAS-base model for a potential German TAPAS model (TAPASGO)
+Resources used to fine-tune the TAPAS-base model for a potential German TAPAS model (TAPASGO). 
+The fine-tuned model can be found under __releases__ after the anonymization period ends.
 
 ## UI Data Collector
 
@@ -8,10 +9,6 @@ The tool consists of two subprojects:
 * a __back-end__ that is responsible for the data processing
 * a __front-end__ where a user can input answers for a given table row
  The subprojects can be found inside the data-collector folder.
-
-### Front-End
-
-### Backend
 
 ## Training
 
