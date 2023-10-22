@@ -148,8 +148,8 @@
             <table class="element" class="center">
               <thead>
               <tr>
-                <th *ngFor="let key of Object.keys(row!.rowEntries!)">
-                  {{key}}
+                <th *ngFor="let value of Object.values(row!.rowEntries!)">
+                  {{value.rowName}}
                 </th>
               </tr>
               </thead>
@@ -157,8 +157,8 @@
                 <tr>
                   <td *ngFor="let value of Object.values(row!.rowEntries!); let i = index" [attr.data-index]="i">
                     <label>
-                      <input [disabled]="value == ''" [(ngModel)]="row!.answerColumn" type="radio" [name]="value + ' ' + row!.row  + ' ' + row!.tableId" [value]="row!.rowEntries!.columnId">
-                      {{value}}
+                      <input [disabled]="value == ''" [(ngModel)]="row!.answerColumn" type="radio" [name]="value + ' ' + row!.row  + ' ' + row!.tableId" [value]="value.columnId">
+                      {{value.cellValue}}
                       <section *ngIf="value == ''">Keine Angabe</section>
                     </label>
                   </td>

@@ -14,7 +14,7 @@ import { TableCellDTO } from "./models";
 
 export interface TableRowDTO {
     tableId?: string;
-    rowEntries?: TableCellDTO;
+    rowEntries?: TableCellDTO[];
     question?: string;
     row?: number;
     answerColumn?: number;
