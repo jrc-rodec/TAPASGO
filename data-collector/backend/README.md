@@ -6,8 +6,9 @@ You can run the application in dev mode that enables live coding using:
 ```shell script
 ./mvnw compile quarkus:dev
 ```
-If you want to initialize the tables specified data.csv, run the application with --enable-table-init.
-If you want to export the database and so far collected data, start the application with --enable-export-tables.
+If you want to initialize the tables specified data.csv, run the application with ```--enable-table-init```.
+
+If you want to export the database and so far collected data, start the application with ```--enable-export-tables```.
 
 ## Path Table
 
